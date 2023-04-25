@@ -200,7 +200,7 @@ body {
 
   .title {
     width: 80%;
-    top: 290px;
+    top: 295px;
     left: 45px;
     font-size: 1.2rem;
     font-weight: bold;
@@ -211,12 +211,12 @@ body {
     top: 350px;
     left: 45px;
     line-height: 20px;
-    font-size: 1rem;
+    font-size: 0.95rem;
   }
 
   .main-image-container {
     top: 105px;
-    left: 45px;
+    left: 30px;
   }
 
   .main-image-container img {
@@ -224,12 +224,12 @@ body {
   }
 
   .app-store-btn {
-    top: 470px;
+    top: 450px;
     left: 45px;
   }
 
   .google-store-btn {
-    top: 470px;
+    top: 450px;
     left: 150px;
   }
 
@@ -253,7 +253,7 @@ body {
 
   .orders-img {
     height: 180px;
-    top: 550px;
+    top: 530px;
     left: 0px;
   }
 
@@ -265,7 +265,7 @@ body {
 
   .home-img {
     height: 190px;
-    top: 550px;
+    top: 530px;
     left: 260px;
   }
 }
