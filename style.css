@@ -177,6 +177,7 @@ body {
     width: 95vw;
     height: 100vh;
     display: grid;
+    overflow-x: hidden;
     grid-template-columns: 1fr;
   }
 
@@ -184,7 +185,7 @@ body {
     width: 25%;
     object-fit: contain;
     top: 20px;
-    left: 45px;
+    left: 35px;
   }
 
   .bg-toggles {
@@ -206,7 +207,7 @@ body {
   }
 
   .text {
-    width: 70%;
+    width: 80%;
     top: 350px;
     left: 45px;
     line-height: 20px;
@@ -239,32 +240,32 @@ body {
   }
 
   .profile-img {
-    top: 550px;
-    left: 205px;
+    top: 620px;
+    left: 130px;
     height: 190px;
   }
 
   .product-img {
-    height: 95px;
+    height: 90px;
     top: 765px;
-    left: 205px;
+    left: 260px;
   }
 
   .orders-img {
     height: 180px;
-    top: 670px;
-    left: 105px;
+    top: 550px;
+    left: 0px;
   }
 
   .cart-img {
-    height: 95px;
+    height: 90px;
     top: 765px;
     left: 0px;
   }
 
   .home-img {
     height: 190px;
-    top: 670px;
-    left: 300px;
+    top: 550px;
+    left: 260px;
   }
 }
